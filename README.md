@@ -1,0 +1,1 @@
+This app theme website is a learning tool for three main things. By making use of the code along project of app-theme website we learn the basics of HTML, CSS and the process of git and git branching are the main milestones of the project.
