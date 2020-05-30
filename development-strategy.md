@@ -2,7 +2,7 @@
 
 > `app-theme`
 
-write a short description of your project:
+description of the project:
 This app theme website is a learning tool for three main things. By making use of the code along project of app-theme website we learn the basics of HTML, CSS and the process of git and git branching are the main milestones of the project.
 - who would want to use it?
 - why would they want to use it?
